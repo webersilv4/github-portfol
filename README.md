@@ -11,4 +11,4 @@
 <p>Eslint.</p>
 <p>Prettier.</p>
 
-![alt text](https://github.com/webersilv4/github-portfol/print_screen/print.jpg?raw=true)
+<img src="./print_screen/print.png" />
